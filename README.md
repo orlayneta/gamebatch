@@ -8,3 +8,6 @@ ya despues estra a un juego el cual es inofensivo , cierra tareas
 para iniciar el explorardor pueden hacerlos usando Win + r y escribir explorer.exe 
 
 o ingresar al administrador de tareas y ejecutar nueva tarea y explorer.exe
+
+la computadora si se apaga tenganlo en cuenta
+
